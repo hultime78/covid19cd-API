@@ -1,6 +1,9 @@
 # covid19cdAPI
 A simple WEB API to get COVID-19 information of each province in DRC
 
+I created this API to help disseminate about the DRC COVID-19 information.
+I am updating this API from time to time,
+
 # Features
 * Update data every two hours 
 
@@ -8,7 +11,7 @@ A simple WEB API to get COVID-19 information of each province in DRC
 
 * Get info of each provinces in DRC
 
-* SimpleSimple data and simple to use
+* Simple data and simple to use
 
 # Provinces
 * Endpoint:http://covid19cdapi.herokuapp.com/provinces
