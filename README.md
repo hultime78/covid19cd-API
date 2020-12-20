@@ -11,7 +11,7 @@ A simple WEB API to get COVID-19 information of each province in DRC
 * SimpleSimple data and simple to use
 
 # Provinces
-* Endpoint:http://covid19cdapi.herokuapp.com
+* Endpoint:http://covid19cdapi.herokuapp.com/provinces
 
 
 <details>
