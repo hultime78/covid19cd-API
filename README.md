@@ -36,3 +36,25 @@ I am updating this API from time to time.
 ```
 
 </details>
+
+# Totals
+* Endpoint:http://covid19cdapi.herokuapp.com/totals
+
+
+<details>
+<summary><b>Response</b></summary>
+
+```json
+[
+  {
+    "id":1,
+    "name":"RDC",
+    "confirmed":8071,
+    "discharge":7228,
+    "deaths":177
+    }
+]
+
+```
+
+</details>
